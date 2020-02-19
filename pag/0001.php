@@ -7,14 +7,19 @@
 <html>
   <head>
     <title>
-      Editorial by HTML5 UP
+      Generic - Editorial by HTML5 UP
     </title>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
-    <link href="assets/css/main.css" rel="stylesheet"/>
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-    <link href="assets/css/w3.css" rel="stylesheet" type="text/css"/>
+    <link href="../assets/css/main.css" rel="stylesheet"/>
+    <link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../assets/css/w3.css" rel="stylesheet" type="text/css"/>
   </head>
+  <style type="text/css">
+    ul ul{
+  		margin-left: 25px;
+  	}
+  </style>
   <body class="is-preload">
     <!-- Wrapper -->
     <div id="wrapper">
@@ -67,210 +72,163 @@
               </li>
             </ul>
           </header>
-          <!-- Banner -->
-          <section id="banner">
-            <div class="content">
-              <header>
-                <h1>
-                  Hi, I’m Editorial
-                  <br/>
-                  by HTML5 UP
-                </h1>
-                <p>
-                  A free and fully responsive site template
-                </p>
-              </header>
-              <p>
-                Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
-              </p>
-              <ul class="actions">
-                <li>
-                  <a class="button big" href="#">
-                    Learn More
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <span class="image object">
-              <img alt="" src="images/pic10.jpg"/>
-            </span>
-          </section>
-          <!-- Section -->
+          <!-- Content -->
           <section>
-            <header class="major">
-              <h2>
-                Erat lacinia
-              </h2>
+            <header class="main">
+              <h1>
+                Generic
+              </h1>
             </header>
-            <div class="features">
-              <article>
-                <span class="icon fa-gem">
-                </span>
-                <div class="content">
-                  <h3>
-                    Portitor ullamcorper
-                  </h3>
-                  <p>
-                    Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-                  </p>
-                </div>
-              </article>
-              <article>
-                <span class="icon solid fa-paper-plane">
-                </span>
-                <div class="content">
-                  <h3>
-                    Sapien veroeros
-                  </h3>
-                  <p>
-                    Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-                  </p>
-                </div>
-              </article>
-              <article>
-                <span class="icon solid fa-rocket">
-                </span>
-                <div class="content">
-                  <h3>
-                    Quam lorem ipsum
-                  </h3>
-                  <p>
-                    Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-                  </p>
-                </div>
-              </article>
-              <article>
-                <span class="icon solid fa-signal">
-                </span>
-                <div class="content">
-                  <h3>
-                    Sed magna finibus
-                  </h3>
-                  <p>
-                    Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-                  </p>
-                </div>
-              </article>
-            </div>
           </section>
-          <!-- Section -->
-          <section>
-            <header class="major">
-              <h2>
-                Ipsum sed dolor
-              </h2>
-            </header>
-            <div class="posts">
-              <article>
-                <a class="image" href="#">
-                  <img alt="" src="images/pic01.jpg"/>
-                </a>
-                <h3>
-                  Interdum aenean
-                </h3>
-                <p>
-                  Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-                </p>
-                <ul class="actions">
+          <div class="row mb-5 pb-5">
+            <ul class="w3-ul">
+              <li>
+                Conocimientos Previos
+                <ul>
                   <li>
-                    <a class="button" href="#">
-                      More
-                    </a>
+                    Conocimientos básicos de Programación
+                  </li>
+                  <li>
+                    Conocimientos de entornos de Servidor
+                  </li>
+                  <li>
+                    Conocimientos básicos de Bases de Datos y SQL
+                  </li>
+                  <li>
+                    Conocimientos de PHP Estructurado
+                  </li>
+                  <li>
+                    Manipulación de algún editor de código
                   </li>
                 </ul>
-              </article>
-              <article>
-                <a class="image" href="#">
-                  <img alt="" src="images/pic02.jpg"/>
-                </a>
-                <h3>
-                  Nulla amet dolore
-                </h3>
-                <p>
-                  Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-                </p>
-                <ul class="actions">
+              </li>
+              <li>
+                0. Introducción a Curso
+                <ul>
                   <li>
-                    <a class="button" href="#">
-                      More
-                    </a>
+                    Información
+                  </li>
+                  <li>
+                    Dinámica
+                  </li>
+                  <li>
+                    Recursos
+                  </li>
+                  <li>
+                    Clases bonus
                   </li>
                 </ul>
-              </article>
-              <article>
-                <a class="image" href="#">
-                  <img alt="" src="images/pic03.jpg"/>
-                </a>
-                <h3>
-                  Tempus ullamcorper
-                </h3>
-                <p>
-                  Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-                </p>
-                <ul class="actions">
+              </li>
+              <li>
+                1. Introducción a la Programación Orientada a Objetos (POO)
+                <ul>
                   <li>
-                    <a class="button" href="#">
-                      More
-                    </a>
+                    ¿Que es POO?
+                  </li>
+                  <li>
+                    Elementos de la POO
+                  </li>
+                  <li>
+                    Características de la POO
                   </li>
                 </ul>
-              </article>
-              <article>
-                <a class="image" href="#">
-                  <img alt="" src="images/pic04.jpg"/>
-                </a>
-                <h3>
-                  Sed etiam facilis
-                </h3>
-                <p>
-                  Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-                </p>
-                <ul class="actions">
+              </li>
+              <li>
+                2. Programación Orientada a Objetos en PHP
+                <ul>
                   <li>
-                    <a class="button" href="#">
-                      More
-                    </a>
+                    Clases en PHP
+                  </li>
+                  <li>
+                    Tipos de Clases
+                  </li>
+                  <li>
+                    Objetos en PHP
+                  </li>
+                  <li>
+                    Instancias, Propiedades, Métodos y Constantes
                   </li>
                 </ul>
-              </article>
-              <article>
-                <a class="image" href="#">
-                  <img alt="" src="images/pic05.jpg"/>
-                </a>
-                <h3>
-                  Feugiat lorem aenean
-                </h3>
-                <p>
-                  Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-                </p>
-                <ul class="actions">
+              </li>
+              <li>
+                3. Introducción al Patrón Modelo Vista Controlador (MVC)
+                <ul>
                   <li>
-                    <a class="button" href="#">
-                      More
-                    </a>
+                    ¿Qué es la Arquitectura de Software?
+                  </li>
+                  <li>
+                    ¿Qué es el Patrón MVC?
+                  </li>
+                  <li>
+                    ¿Cómo funciona el Patrón MVC?
                   </li>
                 </ul>
-              </article>
-              <article>
-                <a class="image" href="#">
-                  <img alt="" src="images/pic06.jpg"/>
-                </a>
-                <h3>
-                  Amet varius aliquam
-                </h3>
-                <p>
-                  Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-                </p>
-                <ul class="actions">
+              </li>
+              <li>
+                4. El patrón MVC en PHP
+                <ul>
                   <li>
-                    <a class="button" href="#">
-                      More
-                    </a>
+                    Modelos e Interfaces
+                  </li>
+                  <li>
+                    Interfáz Gráfica y Lógica de Vista
+                  </li>
+                  <li>
+                    Controlador y Enrutador
                   </li>
                 </ul>
-              </article>
-            </div>
-          </section>
+              </li>
+              <li>
+                5. Bases de Datos con MySQL
+                <ul>
+                  <li>
+                    Sintaxis SQL en MySQL
+                  </li>
+                  <li>
+                    Gestión de Objetos y Datos en MySQL
+                  </li>
+                  <li>
+                    CRUD en MySQL
+                  </li>
+                  <li>
+                    Consultas Múltiples
+                  </li>
+                  <li>
+                    Accediendo a MySQL con PHP
+                  </li>
+                </ul>
+              </li>
+              <li>
+                6. Desarrollo de Framework MVC con PHP y MySQL
+                <ul>
+                  <li>
+                    Planeación de una Aplicación Web
+                  </li>
+                  <li>
+                    Diseño de Base de Datos
+                  </li>
+                  <li>
+                    Definición de Navegación y Rutas
+                  </li>
+                  <li>
+                    Modelado de Datos con POO
+                  </li>
+                  <li>
+                    Manejo de Sesiones
+                  </li>
+                  <li>
+                    Diseño de Vistas en el Front end
+                  </li>
+                  <li>
+                    Desarrollo del Controlador
+                  </li>
+                  <li>
+                    Creación de Módulos con filosofía DRY
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <!-- Sidebar -->
@@ -291,7 +249,7 @@
             </header>
             <ul>
               <li>
-                <a href="index.html">
+                <a href="../index.php">
                   Homepage
                 </a>
               </li>
@@ -307,12 +265,12 @@
               </li>
               <li>
                 <span class="opener">
-                  MOdulos
+                  Submenu
                 </span>
                 <ul>
                   <li>
-                    <a href="pag/0001.php">
-                      1
+                    <a href="#">
+                      Lorem Dolor
                     </a>
                   </li>
                   <li>
@@ -471,15 +429,15 @@
       </div>
     </div>
     <!-- Scripts -->
-    <script src="assets/js/jquery.min.js">
+    <script src="../assets/js/jquery.min.js">
     </script>
-    <script src="assets/js/browser.min.js">
+    <script src="../assets/js/browser.min.js">
     </script>
-    <script src="assets/js/breakpoints.min.js">
+    <script src="../assets/js/breakpoints.min.js">
     </script>
-    <script src="assets/js/util.js">
+    <script src="../assets/js/util.js">
     </script>
-    <script src="assets/js/main.js">
+    <script src="../assets/js/main.js">
     </script>
   </body>
 </html>
