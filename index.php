@@ -1,19 +1,19 @@
 <!DOCTYPE HTML>
 <!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  Editorial by HTML5 UP
+  html5up.net | @ajlkn
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
   <head>
     <title>
-      Editorial by HTML5 UP
+      Código Divertido
     </title>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
     <link href="assets/css/main.css" rel="stylesheet"/>
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="assets/css/w3.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
   </head>
   <body class="is-preload">
     <!-- Wrapper -->
@@ -25,81 +25,34 @@
           <header id="header">
             <a class="logo" href="index.html">
               <strong>
-                Editorial
+                Código Divertido (code)
               </strong>
-              by HTML5 UP
+              <br/>
+              {programación web};
             </a>
             <ul class="icons">
               <li>
-                <a class="icon brands fa-twitter" href="#">
-                  <span class="label">
-                    Twitter
-                  </span>
+                <a class="fab fa-twitter" href="#https://twitter.com/codigodivertido" style="font-size:24px; color: #00B4FF;" target="_blank">
                 </a>
               </li>
               <li>
-                <a class="icon brands fa-facebook-f" href="#">
-                  <span class="label">
-                    Facebook
-                  </span>
+                <a class="fab fa-github" href="https://github.com/codefuncode" style="font-size:24px; color: violet;" target="_blank">
                 </a>
               </li>
               <li>
-                <a class="icon brands fa-snapchat-ghost" href="#">
-                  <span class="label">
-                    Snapchat
-                  </span>
+                <a class="fab fa-facebook" href="https://www.facebook.com/codigodivertidocode" style="font-size:24px; color: blue;" target="_blank">
                 </a>
               </li>
               <li>
-                <a class="icon brands fa-instagram" href="#">
-                  <span class="label">
-                    Instagram
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a class="icon brands fa-medium-m" href="#">
-                  <span class="label">
-                    Medium
-                  </span>
+                <a class="fab fa-youtube" href="https://www.youtube.com/channel/UCJz8iymjuITyH3F01PpK2oQ?view_as=subscriber" style="font-size:24px; color: red;" target="_blank">
                 </a>
               </li>
             </ul>
           </header>
-          <!-- Banner -->
-          <section id="banner">
-            <div class="content">
-              <header>
-                <h1>
-                  Hi, I’m Editorial
-                  <br/>
-                  by HTML5 UP
-                </h1>
-                <p>
-                  A free and fully responsive site template
-                </p>
-              </header>
-              <p>
-                Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
-              </p>
-              <ul class="actions">
-                <li>
-                  <a class="button big" href="#">
-                    Learn More
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <span class="image object">
-              <img alt="" src="images/pic10.jpg"/>
-            </span>
-          </section>
-          <!-- Section -->
           <section>
             <header class="major">
               <h2>
-                Erat lacinia
+                Curso Programación Orientada a Objetos con PHP
               </h2>
             </header>
             <div class="features">
@@ -277,11 +230,11 @@
       <div id="sidebar">
         <div class="inner">
           <!-- Search -->
-          <section class="alt" id="search">
+          <!--    <section class="alt" id="search">
             <form action="#" method="post">
               <input id="query" name="query" placeholder="Search" type="text"/>
             </form>
-          </section>
+          </section> -->
           <!-- Menu -->
           <nav id="menu">
             <header class="major">
@@ -296,175 +249,53 @@
                 </a>
               </li>
               <li>
-                <a href="generic.html">
-                  Generic
-                </a>
-              </li>
-              <li>
-                <a href="elements.html">
-                  Elements
-                </a>
-              </li>
-              <li>
-                <span class="opener">
-                  MOdulos
-                </span>
-                <ul>
-                  <li>
-                    <a href="pag/0001.php">
-                      1
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      Ipsum Adipiscing
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      Tempus Magna
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      Feugiat Veroeros
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <a href="#">
-                  Etiam Dolore
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  Adipiscing
-                </a>
-              </li>
-              <li>
-                <span class="opener">
-                  Another Submenu
-                </span>
-                <ul>
-                  <li>
-                    <a href="#">
-                      Lorem Dolor
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      Ipsum Adipiscing
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      Tempus Magna
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      Feugiat Veroeros
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <a href="#">
-                  Maximus Erat
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  Sapien Mauris
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  Amet Lacinia
+                <a href="doc/pag/0001.php">
+                  Proyecto
                 </a>
               </li>
             </ul>
           </nav>
-          <!-- Section -->
           <section>
             <header class="major">
               <h2>
-                Ante interdum
-              </h2>
-            </header>
-            <div class="mini-posts">
-              <article>
-                <a class="image" href="#">
-                  <img alt="" src="images/pic07.jpg"/>
-                </a>
-                <p>
-                  Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.
-                </p>
-              </article>
-              <article>
-                <a class="image" href="#">
-                  <img alt="" src="images/pic08.jpg"/>
-                </a>
-                <p>
-                  Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.
-                </p>
-              </article>
-              <article>
-                <a class="image" href="#">
-                  <img alt="" src="images/pic09.jpg"/>
-                </a>
-                <p>
-                  Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.
-                </p>
-              </article>
-            </div>
-            <ul class="actions">
-              <li>
-                <a class="button" href="#">
-                  More
-                </a>
-              </li>
-            </ul>
-          </section>
-          <!-- Section -->
-          <section>
-            <header class="major">
-              <h2>
-                Get in touch
+                Contactarme
               </h2>
             </header>
             <p>
-              Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+              Mi nombre es Carlos Alemán y soy desarrollador web independiente. Manejo eficientemente las tecnologías; MySQL, PHP, JavaScript, CSS3 y HTML5.
             </p>
             <ul class="contact">
               <li class="icon solid fa-envelope">
                 <a href="#">
-                  information@untitled.tld
+                  caleman9791@gmail.com
                 </a>
               </li>
               <li class="icon solid fa-phone">
-                (000) 000-0000
+                +1 (939) 277-7333
               </li>
               <li class="icon solid fa-home">
-                1234 Somewhere Road #8254
+                Trujillo Alto
                 <br/>
-                Nashville, TN 00000-0000
+                Puerto Rico , 00976
               </li>
             </ul>
           </section>
           <!-- Footer -->
           <footer id="footer">
+            <div class="row justify-content-center">
+              <div class="col-8">
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input name="cmd" type="hidden" value="_s-xclick"/>
+                  <input name="hosted_button_id" type="hidden" value="C3G4WCGNCEL4G"/>
+                  <input alt="Donar con el botón PayPal" border="0" name="submit" src="https://www.paypalobjects.com/es_XC/i/btn/btn_donateCC_LG.gif" title="PayPal - The safer, easier way to pay online!" type="image"/>
+                  <img alt="" border="0" height="1" src="https://www.paypal.com/es_US/i/scr/pixel.gif" width="1"/>
+                </form>
+              </div>
+            </div>
             <p class="copyright">
-              © Untitled. All rights reserved. Demo Images:
-              <a href="https://unsplash.com">
-                Unsplash
+              <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">
+                Creative Commons Legal Code CC0 1.0 Universal
               </a>
-              . Design:
-              <a href="https://html5up.net">
-                HTML5 UP
-              </a>
-              .
             </p>
           </footer>
         </div>
