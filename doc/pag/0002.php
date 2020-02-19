@@ -26,13 +26,18 @@
                 Elementos
               </h1>
             </header>
+            <a href="https://www.youtube.com/watch?v=AgygnnMaxC8&list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3jr1&index=2" target="">
+              <button>
+                video
+              </button>
+            </a>
           </section>
           <div class="row mb-5 pb-5">
             <div class="col-12">
               <p>
                 A partir de PHP 5, PHP incluye un modelo de objetos completo. Algunas de sus características son: visibilidad, clases y métodos abstractos y finales, métodos mágicos adicionales, interfaces, clonación y determinación de tipos.
-                <br/>
-                <br/>
+              </p>
+              <p>
                 PHP trata los objetos de la misma manera que las referencias o manejadores, lo que significa que cada variable contiene una referencia a un objeto en lugar de una copia de todo el objeto. Véanse los Objetos y referencias
               </p>
             </div>
@@ -46,6 +51,52 @@
               <p style="text-align: right;">
                 <a href="https://www.php.net/manual/es/language.oop5.visibility.php" target="_blank">
                   Visibilidad php
+                </a>
+              </p>
+            </div>
+            <div class="col-12 p-5 w3-light-grey mt-5">
+              <h5>
+                ELEMENTOS BÁSICOS DE LA PROGRAMACIÓN ORIENTADA A OBJETOS
+              </h5>
+              <p>
+                La programación orientada a objetos o POO consiste básicamente en el manejo de clases organizadas para generar un programa, estas tienen atributos básicos y pueden generar objetos con métodos y atributos específicos.
+              </p>
+              <p>
+                Pero observamos varios términos como Clases, Objetos, atributos y métodos, a continuación, explicaremos cada uno de ellos y su relación
+              </p>
+              <h6 class="mt-5">
+                Atributo:
+              </h6>
+              <p>
+                Los atributos son las propiedades o estados de un elemento Clase u objeto, los atributos se declaran como variables del elemento y ayudan a estructurar el objeto de la clase.
+              </p>
+              <h6>
+                Método:
+              </h6>
+              <p>
+                Los métodos son el conjunto de funciones que pueden tener los elementos de un POO clase u objeto, pueden ser funciones aritméticas, comparación, medición, etc. Estos métodos pueden ser privados o públicos.
+              </p>
+              <h6>
+                Clase:
+              </h6>
+              <p>
+                Una clase en POO es una plantilla para la creación de objetos, esta plantilla es un elemento genérico o básico que tiene las características generales, comportamientos, atributos del objeto que se quiera crear.
+              </p>
+              <h6>
+                Objeto e instancia:
+              </h6>
+              <p>
+                Es una unidad de programa que consta de atributos o propiedades y de funciones o métodos, esta unidad de programa se desarrolla a partir de una plantilla o clase, el desarrollo del objeto a partir de una clase (plantilla) se llama instancia.
+              </p>
+              <p>
+                “En el mundo de la programación orientada a objetos (POO), un objeto es el resultado de la instanciación de una clase.” *1.
+              </p>
+              <p>
+                En la siguiente presentación se observa la generación de un objeto a través de una clase y como los atributos de esta clase son privados y sus métodos públicos.
+              </p>
+              <p style="text-align: right;">
+                <a href="https://evirtualcisneros.xyz/mooc/17-programacion/27-elementos-basicos-de-la-programacion-orientada-a-objetos" target="_blank">
+                  Elementos básicos de la programación orientada a objetos
                 </a>
               </p>
             </div>
