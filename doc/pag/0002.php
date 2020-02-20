@@ -26,19 +26,35 @@
                 Elementos
               </h1>
             </header>
-            <a href="https://www.youtube.com/watch?v=AgygnnMaxC8&list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3jr1&index=2" target="">
-              <button>
-                video
-              </button>
-            </a>
+            <p>
+              En este modulo trabajamos con la documentación de PHP  y así ejemplarizar y agregar diversificación en la implementación de códigos.
+            </p>
+            <p>
+              El enlace exacto para la documentación se encuentra bajo la temática
+              <a href="https://www.php.net/manual/es/language.oop5.php" target="_blank">
+                Clases y objetos
+              </a>
+            </p>
+            <div class="mt-5">
+              <a href="https://www.youtube.com/watch?v=AgygnnMaxC8&list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3jr1&index=2" target="_blank">
+                <button class="w3-button w3-red">
+                  video
+                </button>
+              </a>
+            </div>
           </section>
           <div class="row mb-5 pb-5">
-            <div class="col-12">
+            <div class="col-12 p-5 w3-light-grey mt-5">
               <p>
                 A partir de PHP 5, PHP incluye un modelo de objetos completo. Algunas de sus características son: visibilidad, clases y métodos abstractos y finales, métodos mágicos adicionales, interfaces, clonación y determinación de tipos.
               </p>
               <p>
                 PHP trata los objetos de la misma manera que las referencias o manejadores, lo que significa que cada variable contiene una referencia a un objeto en lugar de una copia de todo el objeto. Véanse los Objetos y referencias
+              </p>
+              <p style="text-align: right;">
+                <a href="https://www.php.net/manual/es/language.oop5.php" target="_blank">
+                  Clases y objetos
+                </a>
               </p>
             </div>
             <div class="col-12 p-5 w3-light-grey mt-5">
@@ -98,6 +114,43 @@
                 <a href="https://evirtualcisneros.xyz/mooc/17-programacion/27-elementos-basicos-de-la-programacion-orientada-a-objetos" target="_blank">
                   Elementos básicos de la programación orientada a objetos
                 </a>
+              </p>
+            </div>
+            <div class="col-12 mt-5">
+              <h5 class="mb-4">
+                Ejemplos de implementacion
+              </h5>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </p>
             </div>
           </div>

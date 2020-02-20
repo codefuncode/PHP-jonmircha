@@ -1,5 +1,11 @@
 <?php
-abstract class ClaseAbstracta
+
+// //////////////////////////////////////////////////////////////////////////////
+// Ejemplo 1 mas  comoentarios
+// -------------------------------------------------
+//  Clase abstracta  como modelo para herencia
+// -------------------------------------------------
+abstract class ClaseAbstracta1
 {
   // Forzar la extensión de clase para definir este método
   abstract protected function getValor();
@@ -8,11 +14,17 @@ abstract class ClaseAbstracta
   // Método común
   public function imprimir()
   {
-    print $this->getValor() . "\n";
+    echo $this->getValor() . "\n";
   }
 }
+// -------------------------------------------------
 
-class ClaseConcreta1 extends ClaseAbstracta
+//
+
+//  ------------------------------------------------
+// Clase que hereda #1
+// --------------------------------------------------
+class ClaseConcreta1_ejemplo_1 extends ClaseAbstracta1
 {
   protected function getValor()
   {
@@ -24,8 +36,14 @@ class ClaseConcreta1 extends ClaseAbstracta
     return "{$prefijo}ClaseConcreta1";
   }
 }
+//  ------------------------------------------------
 
-class ClaseConcreta2 extends ClaseAbstracta
+//
+
+// -------------------------------------------------
+// Clase que hereda #2
+// ------------------------------------------------
+class ClaseConcreta1_ejemplo_2 extends ClaseAbstracta1
 {
   public function getValor()
   {
@@ -37,11 +55,48 @@ class ClaseConcreta2 extends ClaseAbstracta
     return "{$prefijo}ClaseConcreta2";
   }
 }
+// -------------------------------------------------
 
-$clase1 = new ClaseConcreta1;
+$clase1 = new ClaseConcreta1_ejemplo_1;
 $clase1->imprimir();
 echo $clase1->valorPrefijo('FOO_') . "\n";
 
-$clase2 = new ClaseConcreta2;
+$clase2 = new ClaseConcreta1_ejemplo_2;
 $clase2->imprimir();
 echo $clase2->valorPrefijo('FOO_') . "\n";
+
+// /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// /Ejemplo 2 mas comentarios
+
+// -------------------------------------------------------------------------
+abstract class ClaseAbstracta2
+{
+  // El método abstracto sólo necesita definir los argumentos requeridos
+  abstract protected function nombrePrefijo($nombre);
+
+}
+// -------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------
+class ClaseConcreta2_ejemlo_1 extends ClaseAbstracta2
+{
+
+  // La clase derivada puede definir parámetros
+  // opcionales que no estén en la estructura del prototipo
+  public function nombrePrefijo($nombre, $separador = ".")
+  {
+    if ($nombre == "Pacman") {
+      $prefijo = "Mr";
+    } elseif ($nombre == "Pacwoman") {
+      $prefijo = "Mrs";
+    } else {
+      $prefijo = "";
+    }
+    return "{$prefijo}{$separador} {$nombre}";
+  }
+}
+// -----------------------------------------------------------------------
+
+$clase = new ClaseConcreta2_ejemlo_1;
+echo $clase->nombrePrefijo("Pacman"), "\n";
+echo $clase->nombrePrefijo("Pacwoman"), "\n";
