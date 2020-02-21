@@ -58,12 +58,19 @@ class ClaseConcreta1_ejemplo_2 extends ClaseAbstracta1
 // -------------------------------------------------
 
 $clase1 = new ClaseConcreta1_ejemplo_1;
+echo '<br/>';
 $clase1->imprimir();
+echo '<br/>';
 echo $clase1->valorPrefijo('FOO_') . "\n";
+echo '<br/>';
 
 $clase2 = new ClaseConcreta1_ejemplo_2;
+echo '<br/>';
 $clase2->imprimir();
+echo '<br/>';
 echo $clase2->valorPrefijo('FOO_') . "\n";
+echo '<br/>';
+echo '<br/>';
 
 // /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // /Ejemplo 2 mas comentarios
@@ -99,4 +106,5 @@ class ClaseConcreta2_ejemlo_1 extends ClaseAbstracta2
 
 $clase = new ClaseConcreta2_ejemlo_1;
 echo $clase->nombrePrefijo("Pacman"), "\n";
+echo '<br/>';
 echo $clase->nombrePrefijo("Pacwoman"), "\n";

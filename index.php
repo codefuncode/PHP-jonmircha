@@ -12,8 +12,9 @@
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
     <link href="assets/css/main.css" rel="stylesheet"/>
-    <link href="assets/css/w3.css" rel="stylesheet" type="text/css"/>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/css/w3.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/css/css.css" rel="stylesheet" type="text/css"/>
   </head>
   <body class="is-preload">
     <!-- Wrapper -->
@@ -50,6 +51,20 @@
             </ul>
           </header>
           <section>
+            <header class="">
+              <h1>
+                Curso Programación Orientada a Objetos con PHP
+              </h1>
+            </header>
+          </section>
+          <!--        <div class="row mb-5 pb-5">
+            <header class="major">
+              <h2>
+                Curso Programación Orientada a Objetos con PHP
+              </h2>
+            </header>
+          </div> -->
+          <!--   <section>
             <header class="major">
               <h2>
                 Curso Programación Orientada a Objetos con PHP
@@ -105,9 +120,9 @@
                 </div>
               </article>
             </div>
-          </section>
+          </section> -->
           <!-- Section -->
-          <section>
+          <!--       <section>
             <header class="major">
               <h2>
                 Ipsum sed dolor
@@ -223,7 +238,7 @@
                 </ul>
               </article>
             </div>
-          </section>
+          </section> -->
         </div>
       </div>
       <!-- Sidebar -->
@@ -245,7 +260,7 @@
             <ul>
               <li>
                 <a href="index.html">
-                  Homepage
+                  INICIO
                 </a>
               </li>
               <li>
