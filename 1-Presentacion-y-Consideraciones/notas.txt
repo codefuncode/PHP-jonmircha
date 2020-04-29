@@ -1,0 +1,25 @@
+﻿
+
+Inicio 
+
+Consideraciones 
+	Conocimientos básicos de:
+		Programación
+		Entorno de servidor 
+		Bases de datos SQL
+		PHP Estructurado 
+		Se autodidacta 
+		Lee documentación 
+		Aprende Ingles 
+	
+Introducción a la programación orientada a objetos POO
+
+Programación orientada a objetos PHP
+
+Bases de datos en MYsql
+
+Introducción al patrón modelo vista controlador (MVC)
+
+El patrón MVC en PHP
+
+Desatollo de fFamework  con  PHP y MySql
