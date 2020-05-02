@@ -17,3 +17,5 @@ https://www.youtube.com/watch?v=RzwJHRL5kfg&list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3
 
 4-Tipos-de-Clases-en-PHP (En poseso de revisión )
 https://www.youtube.com/watch?v=E-0THsBaTvY&list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3jr1&index=4
+
+5-Modificadores-de-Acceso-Metodos-Magicos-e-Interfaces
