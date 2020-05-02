@@ -7,5 +7,3 @@ class nuevaCass extends nombreDeLaClase
 {
 
 }
-
-;
